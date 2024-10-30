@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Cursando Análise e Desenvolvimento de Sistemas<br>👯 Procurando estágio na área<br>🌱 Estudando Java e Python no momento<br>⚡ Também me interesso por matemática e puzzles, e tenho particular interesse em desenvolvimento de jogos
+🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>🌱 Estudando Java e Python no momento<br>⚡ Me interesso por desenvolvimento de softwares e jogos
 
 
 # 💻 Tech Stack:
